@@ -1,0 +1,18 @@
+/* ---- Base Styles ---- */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  colour: #878787;
+  margin: 0;
+  font: 1em/1.5 "Karma:300", Helvetica, Arial, sans-serif;
+}
+
+h1{
+  font-size: 2em;
+  color: #33323B;
+  font-weight: 300;
+  line-height: 1.3;
+}
